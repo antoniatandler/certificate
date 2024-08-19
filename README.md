@@ -7,3 +7,4 @@
 # my "freeCodeCamp" Responsive Web Design - certificate  
 
 <img width="1112" alt="Bildschirmfoto 2024-08-19 um 20 17 48" src="https://github.com/user-attachments/assets/30eb0f21-e3c9-4d6a-b914-8216e4363264">
+https://www.freecodecamp.org/certification/funtonia_/responsive-web-design (here you can find the projects I coded for this certification)
